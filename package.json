@@ -1,0 +1,8 @@
+{
+  "name": "airair",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lavalse/airair.git",
+  "author": "lavalse <lavalselike@gmail.com>",
+  "license": "MIT"
+}
